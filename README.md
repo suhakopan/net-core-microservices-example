@@ -1,7 +1,7 @@
 # net-core-microservices-example
 
-Domain Driven Design
-Event Driven Architecture
-IdentityServer
-RabbitMQ
-Eventual Consistency
+Domain Driven Design<br>
+Event Driven Architecture<br>
+IdentityServer<br>
+RabbitMQ<br>
+Eventual Consistency<br>
